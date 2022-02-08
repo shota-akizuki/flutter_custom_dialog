@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+const background = Color.fromARGB(255, 248, 248, 248);
+const white = Color.fromARGB(255, 255, 255, 255);
+const black = Color.fromARGB(255, 31, 62, 80);
+const blue500opa4 = Color.fromARGB(102, 19, 171, 227);
+const blue500opa2 = Color.fromARGB(51, 19, 171, 227);
+const blue500 = Color.fromARGB(255, 19, 171, 227);
+const blue300 = Color.fromARGB(255, 168, 215, 234);
+const blue200 = Color.fromARGB(255, 222, 241, 248);
+const green500 = Color.fromARGB(255, 70, 192, 67);
+const green100 = Color.fromARGB(255, 236, 249, 236);
+const yellow500 = Color.fromARGB(255, 255, 224, 88);
+const yellow400 = Color.fromARGB(255, 255, 240, 106);
+const red500 = Color.fromARGB(255, 246, 73, 35);
+const red100 = Color.fromARGB(255, 255, 241, 238);
+const gray500 = Color.fromARGB(255, 129, 129, 129);
+const gray400 = Color.fromARGB(255, 153, 153, 153);
+const gray300 = Color.fromARGB(255, 178, 178, 178);
+const gray200 = Color.fromARGB(255, 212, 212, 212);
+const gray100 = Color.fromARGB(255, 236, 236, 236);
+const rank_1 = Color.fromARGB(255, 223, 30, 38);
+const rank_2 = Color.fromARGB(255, 212, 212, 212);
+const rank_3 = Color.fromARGB(255, 237, 171, 106);
