@@ -4,9 +4,10 @@ import 'app_colors.dart' as app_colors;
 
 class CustomDialog extends HookWidget {
   const CustomDialog({
+    Key? key,
     required this.context,
     required this.widget,
-  });
+  }) : super(key: key);
   final BuildContext context;
   final Widget widget;
 

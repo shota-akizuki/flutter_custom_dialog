@@ -6,8 +6,9 @@ import 'dialog_message.dart';
 
 class DialogMessageContent extends HookWidget {
   const DialogMessageContent({
+    Key? key,
     required this.dialogMessage,
-  });
+  }) : super(key: key);
   final DialogMessage dialogMessage;
 
   static const double _buttonHeight = 36;
